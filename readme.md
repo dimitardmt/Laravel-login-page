@@ -6,6 +6,6 @@ These are the main features:
 
 ## Details
 
--Apache server
--Postgresql database
--React front-end
+- Apache server
+- Postgresql database
+- React front-end
