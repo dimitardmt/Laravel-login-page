@@ -16,7 +16,7 @@ These are the main features:
 - /verification keys are login and pass
 - /getuser key is id
 
-The information of all username,passwords and login details could be found in the Table.csv file.
+The information of the login details could be found in the Table.csv file.
 
 ## Concerns and Future Improvements
 
