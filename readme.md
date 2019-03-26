@@ -11,14 +11,14 @@ These are the main features:
 - Postgresql database
 - React front-end
 
-##API-keys
+## API-keys
 
 - /verification keys are login and pass
 - /getuser key is id
 
 The information of all username,passwords and login details could be found in the Table.csv file.
 
-##Concerns and Future improvements
+## Concerns and Future improvements
 
 - The CSRF feature was disabled, to enable the use of the POST method in the API, due to time restrictions. The back-end could be updated to make use of this.
 - The passwords in the database could be hashed to improve security, but due to time constraints this was not included.
